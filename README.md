@@ -1,8 +1,6 @@
 # cnorwood10.github.io
-```
-<html>
-Senior at University of North Alabama
-Major: Information Technology
+
+Senior at University of North Alabama <br>
+Major: Information Technology <br>
 Concentration: Cybersecurity
-</html>
-```
+
